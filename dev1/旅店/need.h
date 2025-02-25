@@ -229,8 +229,8 @@ bool delete_account(const char* filename, const char* account_name) {
 void admin_main_menu() {
 	printf("-------------------------\n");
 	printf("1.查询空房\n");
-	printf("2.房间入住\n");
-	printf("3.退房申请\n");
+	printf("2.帮用户进行房间入住登记\n");
+	printf("3.退房\n");
 	printf("4.注销账号\n");
 	printf("0.退出当前账号\n");
 	printf("-------------------------\n");
@@ -241,7 +241,7 @@ void guest_main_menu() {
 	printf("-------------------------\n");
 	printf("1.查询空房\n");
 	printf("2.申请住房\n");
-	printf("3.申请退房\n");
+	printf("3.退房\n");
 	printf("4.注销账号\n");
 	printf("0.退出当前账号\n");
 	printf("-------------------------\n");
