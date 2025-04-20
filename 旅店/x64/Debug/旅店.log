@@ -1,0 +1,8 @@
+﻿  execuate.c
+C:\Users\spzs\Desktop\旅店\旅店 (2)\旅店\need.h(52,21): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“execuate.c”)
+  
+C:\Users\spzs\Desktop\旅店\旅店 (2)\旅店\execuate.c(5,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  need.h
+C:\Users\spzs\Desktop\旅店\旅店 (2)\旅店\need.h(52,21): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  旅店.vcxproj -> C:\Users\spzs\Desktop\旅店\旅店 (2)\x64\Debug\旅店.exe
