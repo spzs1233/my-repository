@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "学术管理系统", "学术管理系统\学术管理系统.vcxproj", "{C5A70582-9242-4EF5-B7ED-76424EF566CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A70582-9242-4EF5-B7ED-76424EF566CE}.Debug|x64.ActiveCfg = Debug|x64
+		{C5A70582-9242-4EF5-B7ED-76424EF566CE}.Debug|x64.Build.0 = Debug|x64
+		{C5A70582-9242-4EF5-B7ED-76424EF566CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5A70582-9242-4EF5-B7ED-76424EF566CE}.Debug|x86.Build.0 = Debug|Win32
+		{C5A70582-9242-4EF5-B7ED-76424EF566CE}.Release|x64.ActiveCfg = Release|x64
+		{C5A70582-9242-4EF5-B7ED-76424EF566CE}.Release|x64.Build.0 = Release|x64
+		{C5A70582-9242-4EF5-B7ED-76424EF566CE}.Release|x86.ActiveCfg = Release|Win32
+		{C5A70582-9242-4EF5-B7ED-76424EF566CE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BDFEED4-C3A3-4F64-891B-B7A6906FC946}
+	EndGlobalSection
+EndGlobal
